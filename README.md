@@ -23,8 +23,8 @@
 ---
 
 ### 📈 GitHub Stats
-![Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daksh-o1&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-o1&layout=compact&theme=radical)
+![Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devxjaat&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devxjaat&layout=compact&theme=radical)
 
 ---
 
