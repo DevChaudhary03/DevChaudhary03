@@ -4,33 +4,63 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 Currently learning *MERN* 
-- 🔥 Strongest in *Python, but also skilled in **JavaScript, React, Node.js, MongoDB, SQL, HTML, CSS*
-- 🚀 Passionate about building apps and solving real-world problems
-- 💡 Always learning and experimenting with new tech
-- 📫 Reach me at: *devmedia03@gmail.com* 
+- 🌱 Currently learning **MERN Stack**  
+- 🔥 Strongest in **Python**, but also skilled in **JavaScript, React, Node.js, MongoDB, SQL, HTML, CSS**  
+- 🚀 Passionate about building apps and solving real-world problems  
+- 💡 Always learning and experimenting with new tech  
+- 📫 Reach me at: **devmedia03@gmail.com**  
 
 ---
 
-### 🛠 Languages & Tools I Use
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+### 🛠 Languages & Tools I Use  
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+</p>
 
 ---
 
-### 📈 GitHub Stats
-![Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devxjaat&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devxjaat&layout=compact&theme=radical)
+### 📈 GitHub Stats & Streak  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devxjaat&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devxjaat&theme=tokyonight&hide_border=true" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxjaat&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+</p>
+
+---
+
+### ⚡ Fun Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
+</p>
 
 ---
 
 ### 🔗 Connect with Me
-- 🌐 Portfolio: [Coming Soon...]
-- 💼 LinkedIn: [www.linkedin.com/in/
-devchaudhary2007
-Vanity URL name
-]
+<p align="center">
+  🌐 Portfolio: <em>Coming Soon...</em> <br>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/devchaudhary2007" target="_blank">linkedin.com/in/devchaudhary2007</a>
+</p>
+
+---
+
+<p align="center">✨ Always learning. Always building. ✨</p>
