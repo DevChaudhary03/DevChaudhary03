@@ -12,11 +12,7 @@
 
 ---
 
----
 
-### 🛠 Languages & Tools I Use  
-
----
 
 ### 🛠 Languages & Tools I Use  
 
@@ -37,16 +33,27 @@
 
 
 ### 📈 GitHub Stats & Streak  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devxjaat&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devxjaat&theme=tokyonight&hide_border=true" height="160px"/>
-</p>
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxjaat&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=devxjaat&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=devxjaat&theme=transparent&hide_border=true" height="160px"/>
 </p>
 
 ---
+
+### 🏆 Achievements & Contributions  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devxjaat&theme=flat&no-frame=true&row=1&column=6" alt="trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devxjaat&bg_color=ffffff&color=000000&line=0078D7&point=1A73E8&area=true&hide_border=true" width="95%"/>
+</p>
+
+---
+
 
 ### ⚡ Fun Quote  
 <p align="center">
