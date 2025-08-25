@@ -41,77 +41,22 @@
 </p>
 
 ---
-
----
-
-- 📊  CONTRIBUTIONS 
-
-
+<!-- 📅 Monthly Contribution Graph -->
 <div align="center">
-  <h2>📊 My Contributions Activity</h2>
-  <p style="margin:0; opacity:.8;">A clean, unique view of my yearly contributions</p>
-</div>
-
-
-<div align="center" style="margin: 18px 0;">
+  <h2>📅 Contributions per Month</h2>
   <a href="https://github.com/devxjaat" target="_blank" rel="noreferrer">
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=devxjaat&bg_color=0d1117&color=ffffff&line=ff6b6b&point=fcdc00&area=true&hide_border=true&custom_title=%F0%9F%94%A5%20Yearly%20Contribution%20Graph"
-      alt="Yearly Contribution Graph"
+      src="https://github-contributions-api.deno.dev/devxjaat.svg"
+      alt="Monthly Contribution Graph"
       style="max-width: 100%; width: 95%; border-radius: 12px;"
     />
   </a>
-</div>
-
-
-<div align="center" style="margin: 8px 0 18px;">
-  <a href="https://github.com/devxjaat?tab=repositories" target="_blank" rel="noreferrer">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=devxjaat&theme=algolia&no-frame=true&row=1&column=6"
-      alt="GitHub Trophies"
-      style="max-width: 100%; border-radius: 10px;"
-    />
-  </a>
-</div>
-
-<div align="center" style="margin: 10px 0 0;">
-  <h3>🏙️ My Year in Code — 3D Skyline</h3>
-  <p style="margin-top: 4px; opacity:.85;">
-    Months visualized as buildings — a unique 3D view of my contributions
-  </p>
-
-  <img
-    src="https://github.com/devxjaat/devxjaat/blob/main/assets/skyline.gif"
-    alt="3D Skyline of Contributions"
-    style="max-width: 100%; width: 85%; border-radius: 14px;"
-  />
   <p style="font-size: 12px; opacity:.7; margin-top: 6px;">
-    Made with <a href="https://skyline.github.com/" target="_blank" rel="noreferrer">GitHub Skyline</a>
+    Shows contributions count month-wise for the current year
   </p>
 </div>
 
 
-
-### 🏆 GitHub Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devxjaat&theme=algolia&no-frame=true&row=1&column=6" alt="trophies"/>
-</p>
-
----
-
-### 🏙️ 3D Skyline (My Year in Code)  
-
-<p align="center">
-  <em>My contributions visualized as a 3D city skyline 🌆</em><br>
-  <img src="https://user-images.githubusercontent.com/00000000/00000000-skyline-sample.gif" width="80%"/>
-</p>
-
-*(Generate your own Skyline at [skyline.github.com](https://skyline.github.com/) → Export GIF/Video → Replace the above link with yours.)*
-
----
-
----
 
 
 ### ⚡ Fun Quote  
