@@ -42,14 +42,22 @@
 
 ---
 
+---
+
 ### 🏆 Achievements & Contributions  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=devxjaat&theme=flat&no-frame=true&row=1&column=6" alt="trophies" />
 </p>
 
+<!-- 🔥 Animated Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devxjaat&bg_color=ffffff&color=000000&line=0078D7&point=1A73E8&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devxjaat&bg_color=0d1117&color=ffffff&line=00bfff&point=1aff1a&area=true&hide_border=true&custom_title=⚡%20Contribution%20Graph" width="95%"/>
+</p>
+
+<!-- 🐍 Snake animation -->
+<p align="center">
+  <img src="https://github.com/devxjaat/devxjaat/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
