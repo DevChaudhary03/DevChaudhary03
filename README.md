@@ -51,7 +51,7 @@
       style="max-width: 100%; width: 95%; border-radius: 12px;"
     />
   </a>
-  <p style="font-size: 12px; opacity:.7; margin-top: 6px;">
+  <p style="font-size: 12px; opacity:.7; margin-top: 6px;" font-color:white;>
     Shows contributions count month-wise for the current year
   </p>
 </div>
