@@ -30,14 +30,14 @@
 ---
 
 
-
-
 ### 📈 GitHub Stats & Streak  
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devxjaat&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devxjaat&theme=tokyonight&hide_border=true" height="160px"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devxjaat&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devxjaat&theme=transparent&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxjaat&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
 </p>
 
 ---
