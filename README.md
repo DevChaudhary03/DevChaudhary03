@@ -44,21 +44,35 @@
 
 ---
 
-### 🏆 Achievements & Contributions  
 
+
+### 📊 My Contributions Activity  
+
+<!-- 🔥 Heatwave Contribution Graph -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devxjaat&theme=flat&no-frame=true&row=1&column=6" alt="trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devxjaat&bg_color=0d1117&color=ffffff&line=ff6b6b&point=fcdc00&area=true&hide_border=true&custom_title=🔥%20Yearly%20Contribution%20Graph" width="95%"/>
 </p>
 
-<!-- 🔥 Animated Contribution Graph -->
+---
+
+### 🏆 GitHub Achievements  
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devxjaat&bg_color=0d1117&color=ffffff&line=00bfff&point=1aff1a&area=true&hide_border=true&custom_title=⚡%20Contribution%20Graph" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=devxjaat&theme=algolia&no-frame=true&row=1&column=6" alt="trophies"/>
 </p>
 
-<!-- 🐍 Snake animation -->
+---
+
+### 🏙️ 3D Skyline (My Year in Code)  
+
 <p align="center">
-  <img src="https://github.com/devxjaat/devxjaat/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <em>My contributions visualized as a 3D city skyline 🌆</em><br>
+  <img src="https://user-images.githubusercontent.com/00000000/00000000-skyline-sample.gif" width="80%"/>
 </p>
+
+*(Generate your own Skyline at [skyline.github.com](https://skyline.github.com/) → Export GIF/Video → Replace the above link with yours.)*
+
+---
 
 ---
 
