@@ -28,12 +28,6 @@
 
 ---
 
-### 🤪 Fun Fact
-> I can fix bugs faster than I can explain how I fixed them 😅  
-> And yes, I drink chai while coding like it's part of the IDE ☕
-
----
-
 ### 🔗 Connect with Me
 - 🌐 Portfolio: [Coming Soon...]
 - 💼 LinkedIn: [www.linkedin.com/in/
