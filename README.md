@@ -32,21 +32,21 @@
 
 ### 📈 GitHub Stats & Streak  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devxjaat&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devxjaat&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DevChaudhary03&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevChaudhary03&theme=tokyonight&hide_border=true" height="160px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxjaat&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevChaudhary03&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
 </p>
 
 ---
 <!-- 📅 Monthly Contribution Graph -->
 <div align="center">
   <h2>📅 Contributions per Month</h2>
-  <a href="https://github.com/devxjaat" target="_blank" rel="noreferrer">
+  <a href="https://github.com/DevChaudhary03" target="_blank" rel="noreferrer">
     <img
-      src="https://github-contributions-api.deno.dev/devxjaat.svg"
+      src="https://github-contributions-api.deno.dev/DevChaudhary03.svg"
       alt="Monthly Contribution Graph"
       style="max-width: 100%; width: 95%; border-radius: 12px;"
     />
