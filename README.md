@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dev</h1>
-<h3 align="center">An enthusiastic developer exploring Full Stack development</h3>
+<h3 align="center">Aspiring Full Stack developver</h3>
 
 ---
 
 ### 👨‍💻 About Me
 - 🌱 Currently learning **MERN Stack**  
-- 🔥 Strongest in **Python**, but also skilled in **JavaScript, React, Node.js, MongoDB, SQL, HTML, CSS**  
+- 🔥 skilled in **JavaScript, React, SQL, HTML, CSS**  
 - 🚀 Passionate about building apps and solving real-world problems  
 - 💡 Always learning and experimenting with new tech  
 - 📫 Reach me at: **devmedia03@gmail.com**  
